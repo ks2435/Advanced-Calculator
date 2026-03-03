@@ -1,5 +1,8 @@
 # Advanced Calculator
 
+![Python CI](https://github.com/ks2435/Advanced-Calculator/actions/workflows/python-app.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
+
 ## Project Overview
 
 The **Advanced Calculator** is a Python-based command-line application that performs arithmetic calculations with extended functionality. The system supports multiple arithmetic operations, maintains calculation history, implements undo/redo functionality, logs events, and automatically saves history to CSV files.

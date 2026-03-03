@@ -1,0 +1,1 @@
+# Makes `tests` a package. Not strictly required for pytest, but harmless.
